@@ -1,0 +1,5 @@
+# 本地 DVWA（确保虚拟机/靶机已启动且浏览器能打开）
+http://192.168.43.40/dvwa
+
+# testphp 无标准后台登录页，且外网常超时，测弱口令请换别的目标
+# http://testphp.vulnweb.com
